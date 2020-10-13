@@ -1,5 +1,11 @@
+
+
 我的版本控制用的是git
 
 我正在使用git，非常不错的工具
 
 new content
+
+
+master error
+
